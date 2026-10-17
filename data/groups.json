@@ -1,5 +1,24 @@
 [
   {
+    "id": "quant-finance-algorithmic-execution-hub-telegram-20261017-1",
+    "title": "Prop Traders & Challenge Verification",
+    "platform": "Telegram",
+    "category": "Telegram",
+    "memberCount": "28,000+ members",
+    "description": "Daily updates on prop firm rules, discount promo codes, pass rates, and payout verification receipts.",
+    "joinUrl": "https://t.me/proptraders",
+    "tags": [
+      "telegram",
+      "prop-firms",
+      "payouts",
+      "rules"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-17"
+  },
+  {
     "id": "quant-finance-algorithmic-execution-hub-discord-20261016-1",
     "title": "WallStreetBets Official Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-16"
   },
   {
