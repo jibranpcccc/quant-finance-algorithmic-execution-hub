@@ -4,10 +4,17 @@
     <title>Quantitative Finance &amp; Algorithmic Execution Hub</title>
     <link>https://quant-finance-algorithmic-execution-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 06:07:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:06:49 GMT</lastBuildDate>
     <atom:link href="https://quant-finance-algorithmic-execution-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                    <item>
+                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://quant-finance-algorithmic-execution-hub.netlify.app/#quant-finance-algorithmic-execution-hub-forum-20261106-1-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:06:49 GMT</pubDate>
+      <description>Newly verified community added to Quantitative Finance &amp; Algorithmic Execution Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://quant-finance-algorithmic-execution-hub.netlify.app/#quant-finance-algorithmic-execution-hub-forum-20261106-1-2026-11-10</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://quant-finance-algorithmic-execution-hub.netlify.app/#quant-finance-algorithmic-execution-hub-discord-20261013-1-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 06:06:55 GMT</pubDate>
       <description>Newly verified community added to Quantitative Finance &amp; Algorithmic Execution Hub: Real-time session opens (London/NY), liquidity sweep analysis, and currency correlation heatmaps.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Prop Trading Firms Evaluation Hub (Discord)</title>
-      <link>https://discord.gg/trading</link>
-      <guid isPermaLink="false">https://quant-finance-algorithmic-execution-hub.netlify.app/#quant-finance-algorithmic-execution-hub-discord-20261011-1-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 06:06:49 GMT</pubDate>
-      <description>Newly verified community added to Quantitative Finance &amp; Algorithmic Execution Hub: Dedicated to passing prop firm challenges, drawdown calculators, payout proofs, and evaluation guidelines.</description>
     </item>
   </channel>
 </rss>
